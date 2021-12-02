@@ -1,5 +1,3 @@
-# Ham-Vs.-Spam Prediction
-
 ### Overview
 * Created a tool for detection of spam mail from non-spam mails
 * Dataset was downloaded from kaggle
